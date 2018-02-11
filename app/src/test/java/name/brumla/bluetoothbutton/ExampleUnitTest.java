@@ -1,5 +1,7 @@
 package name.brumla.bluetoothbutton;
 
+/* NOT USED YET */
+
 import org.junit.Test;
 
 import static org.junit.Assert.*;
