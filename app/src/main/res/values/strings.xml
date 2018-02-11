@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BluetoothButton</string>
+    <string name="toast_reload_service">Background service will restart...</string>
+    <string name="lbl_bluetooth_device_status">Bluetooth device status</string>
+    <string name="lbl_last_ping">Last ping</string>
+    <string name="msg_waiting_for_signal">Waiting for signal...</string>
+    <string name="msg_connected_to_br">Connected to remote device</string>
+    <string name="msg_phone_alert">Calling remote number!</string>
+    <string name="err_preferences_cannot_store_empty_btinfo">Cannot store empty device info!</string>
+    <string name="err_no_device_setup">No device was set up.</string>
+</resources>

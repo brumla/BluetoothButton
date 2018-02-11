@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BluetoothButton</string>
+    <string name="toast_reload_service">Služba na pozadí se znovu spustí...</string>
+    <string name="msg_waiting_for_signal">Čekám na signál...</string>
+    <string name="lbl_last_ping">Poslední ping</string>
+    <string name="lbl_bluetooth_device_status">Stav komunikace s BT</string>
+    <string name="msg_connected_to_br">Připojen ke vzdálenému zařízení</string>
+</resources>
